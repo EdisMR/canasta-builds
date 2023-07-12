@@ -1,0 +1,111 @@
+{
+  "configVersion": 1,
+  "timestamp": 1689178862560,
+  "index": "./index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "./assets/favicon.webp",
+        "./index.html",
+        "./main.21e760b907b07a5f.js",
+        "./manifest.webmanifest",
+        "./polyfills.3c9cd5881f16bf09.js",
+        "./runtime.8d8ddac177cd2760.js",
+        "./styles.574d76b506aa7028.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "./assets/bg-1.webp",
+        "./assets/chip/1.webp",
+        "./assets/chip/10.webp",
+        "./assets/chip/100.webp",
+        "./assets/chip/1000.webp",
+        "./assets/chip/10000.webp",
+        "./assets/chip/200.webp",
+        "./assets/chip/25.webp",
+        "./assets/chip/5.webp",
+        "./assets/chip/500.webp",
+        "./assets/chip/5000.webp",
+        "./assets/chip/chip.webp",
+        "./assets/fabric-icons-2ec38c36.woff",
+        "./assets/icons/icon-128x128.png",
+        "./assets/icons/icon-144x144.png",
+        "./assets/icons/icon-152x152.png",
+        "./assets/icons/icon-192x192.png",
+        "./assets/icons/icon-384x384.png",
+        "./assets/icons/icon-512x512.png",
+        "./assets/icons/icon-72x72.png",
+        "./assets/icons/icon-96x96.png",
+        "./assets/images/bills.webp",
+        "./assets/images/casino-chips-s.webp"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "./assets/bg-1.webp": "8861f19120a4f9c8ed34bee92ceb264667823808",
+    "./assets/chip/1.webp": "5cf8faa51b4107e5eb5a0f44639a38ef917e2378",
+    "./assets/chip/10.webp": "e0107fa6b931ff920bf81e734fcd6ae612b3ac4a",
+    "./assets/chip/100.webp": "ec1589c9086bdd0b18913f5f1e91f10e225add91",
+    "./assets/chip/1000.webp": "41500e4559364a9d0b5b460c8396663f826b7a96",
+    "./assets/chip/10000.webp": "01729fc3cf52fe4bcabc55b80335778f676364b8",
+    "./assets/chip/200.webp": "15c58e10dc2d5045e65e1727f1fab2af370e6a0b",
+    "./assets/chip/25.webp": "cf091720f09adfaa65e12068892a23c97c2aa1e4",
+    "./assets/chip/5.webp": "11f3f6ea98b03e4db2f5ef732f590e9d6ecc64ad",
+    "./assets/chip/500.webp": "3546038392db2503b8aa15b07582dbf7d731c5a3",
+    "./assets/chip/5000.webp": "47a3d07daaf52c6f58499fc4e7e43281b158e2f5",
+    "./assets/chip/chip.webp": "c8e41a20342b76cd283e6859948acc37f84235ac",
+    "./assets/fabric-icons-2ec38c36.woff": "329890235aa131fcb0b07bbfdb925434b01fcca7",
+    "./assets/favicon.webp": "3880dabb141f85d3fbad5e7ca07d82a6affcc7b8",
+    "./assets/icons/icon-128x128.png": "c9483ea07dcbcc7dddb7167c80773e627fd18bb4",
+    "./assets/icons/icon-144x144.png": "5eb3618278102e3e2156984dbc2e5ad730c83592",
+    "./assets/icons/icon-152x152.png": "4f3eed1837ab2fb2a3f59dda508fc6ca651ab0a8",
+    "./assets/icons/icon-192x192.png": "ef13c867c42f66607231a4a1bd8a7dae0b27fe58",
+    "./assets/icons/icon-384x384.png": "9344852034600d3456951c39bfcd738cd838efa6",
+    "./assets/icons/icon-512x512.png": "6fef9691c882f9aac0ff75fec3d735e32c124b2b",
+    "./assets/icons/icon-72x72.png": "54fb27a1c6f528b73aa91353aa89c75b71ab71ef",
+    "./assets/icons/icon-96x96.png": "0f9452f76460669dc1c1966f21f38110e9a41dc8",
+    "./assets/images/bills.webp": "dd7853b48645a6fe1108d4df70ce40c55d39c483",
+    "./assets/images/casino-chips-s.webp": "3088aea9068634370275e263a2f20d487a284465",
+    "./index.html": "558616c301c52831e4f5ccb693f455dae70670f0",
+    "./main.21e760b907b07a5f.js": "1f996c8d025e818f7777472a3d5c4dfefea6c0a7",
+    "./manifest.webmanifest": "c7b368db4fb3c6423d0a07a4b2a5d68bcbf34330",
+    "./polyfills.3c9cd5881f16bf09.js": "178c71420a9c1a85047b6cee7886600e7d6eb39c",
+    "./runtime.8d8ddac177cd2760.js": "f7eb6cf82148c8901f5bc8d0eb93a7777678d859",
+    "./styles.574d76b506aa7028.css": "005ed16c4d5db717cac2c293263f515b5de02b98"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
