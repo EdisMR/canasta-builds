@@ -1,9 +1,10 @@
 {
-  "name": "Práctica, Pagos de Canasta",
-  "short_name": "canasta",
+  "name": "Pagos de Canasta",
+  "short_name": "Canasta",
   "theme_color": "#ad1d3f",
   "background_color": "#222",
   "display": "standalone",
+  "orientation": "portrait",
   "scope": "./",
   "start_url": "./",
   "icons": [
