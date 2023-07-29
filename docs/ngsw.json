@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1689229567098,
+  "timestamp": 1690601591894,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "./assets/favicon.webp",
         "./index.html",
-        "./main.776b1a332425ef9e.js",
+        "./main.b5cb741f7f1db4a4.js",
         "./manifest.webmanifest",
         "./polyfills.3c9cd5881f16bf09.js",
         "./runtime.8d8ddac177cd2760.js",
@@ -82,8 +82,8 @@
     "./assets/icons/icon-96x96.png": "0f9452f76460669dc1c1966f21f38110e9a41dc8",
     "./assets/images/bills.webp": "dd7853b48645a6fe1108d4df70ce40c55d39c483",
     "./assets/images/casino-chips-s.webp": "3088aea9068634370275e263a2f20d487a284465",
-    "./index.html": "e940aae0b1f401635c53aa2af4ec04b53a167a00",
-    "./main.776b1a332425ef9e.js": "672d3f1dc3699c6b198aa675fba7102f2e07e474",
+    "./index.html": "86e2b78c431d4c7978bbdbf7427cca52a4ee9457",
+    "./main.b5cb741f7f1db4a4.js": "ffd20319a53dfed3d595276eae05d86afb9ed567",
     "./manifest.webmanifest": "2d79b525def3a6608e2e14f9f50e6b2c6c129457",
     "./polyfills.3c9cd5881f16bf09.js": "178c71420a9c1a85047b6cee7886600e7d6eb39c",
     "./runtime.8d8ddac177cd2760.js": "f7eb6cf82148c8901f5bc8d0eb93a7777678d859",
