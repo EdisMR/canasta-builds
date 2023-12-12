@@ -1,0 +1,16 @@
+{
+  "name": "canasta-builds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "qqqq":"npm run process1 && npm run process2",
+    "process1":"rename browser docs",
+    "process2":"git add . && git commit -m \"build\" && git push"
+  },
+  "author": "",
+  "license": "ISC"
+}
