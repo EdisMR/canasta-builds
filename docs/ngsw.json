@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702762288007,
+  "timestamp": 1702762707931,
   "index": "https://edismr.github.io/canasta-builds/index.html",
   "assetGroups": [
     {
@@ -21,7 +21,7 @@
         "https://edismr.github.io/canasta-builds/main-4HI6P27K.js",
         "https://edismr.github.io/canasta-builds/manifest.webmanifest",
         "https://edismr.github.io/canasta-builds/polyfills-LZBJRJJE.js",
-        "https://edismr.github.io/canasta-builds/styles-HUI7OGEE.css"
+        "https://edismr.github.io/canasta-builds/styles-IAAW7YBL.css"
       ],
       "patterns": []
     },
@@ -213,7 +213,7 @@
     "https://edismr.github.io/canasta-builds/chunk-VM6OKEQN.js": "0550163aba23371192836320d9db09ce9da2c184",
     "https://edismr.github.io/canasta-builds/chunk-WNVLC2KY.js": "39b904506fa76b587f3f8e5e938e322da59cf195",
     "https://edismr.github.io/canasta-builds/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://edismr.github.io/canasta-builds/index.html": "90ee48fa761a66e3ddd24708ab7cf62d24ef0376",
+    "https://edismr.github.io/canasta-builds/index.html": "ef59df7afa4a904c7090b5695bacd663f4f7a8a3",
     "https://edismr.github.io/canasta-builds/main-4HI6P27K.js": "aec2d917bc3e3e25a2231461db62fd9af6eb01ac",
     "https://edismr.github.io/canasta-builds/manifest.webmanifest": "f13b1c56c6fc4c1f81b58642062e254dee762820",
     "https://edismr.github.io/canasta-builds/media/bg-1-W5BLS4NK.webp": "8861f19120a4f9c8ed34bee92ceb264667823808",
@@ -221,7 +221,7 @@
     "https://edismr.github.io/canasta-builds/media/casino-chips-s-OXZHLZJW.webp": "3088aea9068634370275e263a2f20d487a284465",
     "https://edismr.github.io/canasta-builds/media/fabric-icons-2ec38c36-XGZS2O5E.woff": "329890235aa131fcb0b07bbfdb925434b01fcca7",
     "https://edismr.github.io/canasta-builds/polyfills-LZBJRJJE.js": "fda1c82c5c620f1fa442f687b3df45a037f6fcc9",
-    "https://edismr.github.io/canasta-builds/styles-HUI7OGEE.css": "1b86187dd36266bc09954222abc4222d9b1f5bc3"
+    "https://edismr.github.io/canasta-builds/styles-IAAW7YBL.css": "c840a50233ec49e100ca6736676dfaa93cc30e12"
   },
   "navigationUrls": [
     {
