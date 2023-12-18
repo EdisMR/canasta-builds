@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702941781086,
+  "timestamp": 1702942949805,
   "index": "https://edismr.github.io/canasta-builds/index.html",
   "assetGroups": [
     {
@@ -15,10 +15,10 @@
         "https://edismr.github.io/canasta-builds/chunk-FVWNVUDM.js",
         "https://edismr.github.io/canasta-builds/chunk-IV4P2DMH.js",
         "https://edismr.github.io/canasta-builds/chunk-MQ2EZ6AK.js",
-        "https://edismr.github.io/canasta-builds/chunk-RZJYRYWS.js",
+        "https://edismr.github.io/canasta-builds/chunk-ZYCUXXXP.js",
         "https://edismr.github.io/canasta-builds/favicon.ico",
         "https://edismr.github.io/canasta-builds/index.html",
-        "https://edismr.github.io/canasta-builds/main-SS5PXK3H.js",
+        "https://edismr.github.io/canasta-builds/main-TA643J5F.js",
         "https://edismr.github.io/canasta-builds/manifest.webmanifest",
         "https://edismr.github.io/canasta-builds/polyfills-LZBJRJJE.js",
         "https://edismr.github.io/canasta-builds/styles-MY7GPG53.css"
@@ -213,10 +213,10 @@
     "https://edismr.github.io/canasta-builds/chunk-FVWNVUDM.js": "f94f88a35b120342804ed919c0c878b356d5dceb",
     "https://edismr.github.io/canasta-builds/chunk-IV4P2DMH.js": "96265fe02d68ff517625fe0f66ed4064630dab55",
     "https://edismr.github.io/canasta-builds/chunk-MQ2EZ6AK.js": "73d1fad7e34c70b4848a76ab1a3764f9137144ce",
-    "https://edismr.github.io/canasta-builds/chunk-RZJYRYWS.js": "e5c0223aff2859e03fd114f3c718e416b1b65999",
+    "https://edismr.github.io/canasta-builds/chunk-ZYCUXXXP.js": "ba6ddcce168254c7d76f3df480915a346f5d189f",
     "https://edismr.github.io/canasta-builds/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://edismr.github.io/canasta-builds/index.html": "068c2841b0f5d8a2f7cbe3d3491043b19a5ea9ab",
-    "https://edismr.github.io/canasta-builds/main-SS5PXK3H.js": "5d274412771c42232657f84d63f0e354165f2e6f",
+    "https://edismr.github.io/canasta-builds/index.html": "9a13b91900ad669be9ad59551fc5686ebf7f010d",
+    "https://edismr.github.io/canasta-builds/main-TA643J5F.js": "62d5be0153b51218f48b85ad5a97d21e5234b5dc",
     "https://edismr.github.io/canasta-builds/manifest.webmanifest": "f0a6a707dc691be693834727def5d9647a3bf751",
     "https://edismr.github.io/canasta-builds/media/bills-FIHPMTIL.webp": "dd7853b48645a6fe1108d4df70ce40c55d39c483",
     "https://edismr.github.io/canasta-builds/media/casino-chips-s-OXZHLZJW.webp": "3088aea9068634370275e263a2f20d487a284465",
