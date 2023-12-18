@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702766025681,
+  "timestamp": 1702941781086,
   "index": "https://edismr.github.io/canasta-builds/index.html",
   "assetGroups": [
     {
@@ -11,17 +11,17 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://edismr.github.io/canasta-builds/chunk-2TQ7GQK6.js",
-        "https://edismr.github.io/canasta-builds/chunk-D3WNA54Q.js",
-        "https://edismr.github.io/canasta-builds/chunk-FNI7E6FS.js",
+        "https://edismr.github.io/canasta-builds/chunk-4PHOILRH.js",
         "https://edismr.github.io/canasta-builds/chunk-FVWNVUDM.js",
-        "https://edismr.github.io/canasta-builds/chunk-JAAEZL4E.js",
+        "https://edismr.github.io/canasta-builds/chunk-IV4P2DMH.js",
+        "https://edismr.github.io/canasta-builds/chunk-MQ2EZ6AK.js",
+        "https://edismr.github.io/canasta-builds/chunk-RZJYRYWS.js",
         "https://edismr.github.io/canasta-builds/favicon.ico",
         "https://edismr.github.io/canasta-builds/index.html",
-        "https://edismr.github.io/canasta-builds/main-FSDTHP6R.js",
+        "https://edismr.github.io/canasta-builds/main-SS5PXK3H.js",
         "https://edismr.github.io/canasta-builds/manifest.webmanifest",
         "https://edismr.github.io/canasta-builds/polyfills-LZBJRJJE.js",
-        "https://edismr.github.io/canasta-builds/styles-IAAW7YBL.css"
+        "https://edismr.github.io/canasta-builds/styles-MY7GPG53.css"
       ],
       "patterns": []
     },
@@ -115,17 +115,18 @@
         "https://edismr.github.io/canasta-builds/assets/images/bills.webp",
         "https://edismr.github.io/canasta-builds/assets/images/casino-chips-s.webp",
         "https://edismr.github.io/canasta-builds/assets/images/girar.svg",
-        "https://edismr.github.io/canasta-builds/media/bg-1-W5BLS4NK.webp",
+        "https://edismr.github.io/canasta-builds/assets/poker-bg.avif",
         "https://edismr.github.io/canasta-builds/media/bills-FIHPMTIL.webp",
         "https://edismr.github.io/canasta-builds/media/casino-chips-s-OXZHLZJW.webp",
-        "https://edismr.github.io/canasta-builds/media/fabric-icons-2ec38c36-XGZS2O5E.woff"
+        "https://edismr.github.io/canasta-builds/media/fabric-icons-2ec38c36-XGZS2O5E.woff",
+        "https://edismr.github.io/canasta-builds/media/poker-bg-PUF5FXV6.avif"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://edismr.github.io/canasta-builds/assets/bg-1.webp": "8861f19120a4f9c8ed34bee92ceb264667823808",
+    "https://edismr.github.io/canasta-builds/assets/bg-1.webp": "bd7a02f0176a3d1c64bfe92d8e35f3241c624c15",
     "https://edismr.github.io/canasta-builds/assets/cards/10_of_clubs.webp": "eecaccef03936412b94acc42109b30157062c000",
     "https://edismr.github.io/canasta-builds/assets/cards/10_of_diamonds.webp": "796f61de5ade2c84ee798b1a70005d18479159fe",
     "https://edismr.github.io/canasta-builds/assets/cards/10_of_hearts.webp": "2b56ba44fcddcdcc700583df13bd6de34a07f83f",
@@ -183,17 +184,17 @@
     "https://edismr.github.io/canasta-builds/assets/cards/queen_of_spades2.webp": "b4d4bdaaf2aad1c3ce60feba4877c82a29f3e48e",
     "https://edismr.github.io/canasta-builds/assets/cards/red.webp": "614778fe968c5cd96d4dd5c65dc28bcdab3fea97",
     "https://edismr.github.io/canasta-builds/assets/cards/red_joker.webp": "acff6bd2103e990ba71927fc2ebc256d12fc32f7",
-    "https://edismr.github.io/canasta-builds/assets/chip/1.webp": "5cf8faa51b4107e5eb5a0f44639a38ef917e2378",
-    "https://edismr.github.io/canasta-builds/assets/chip/10.webp": "e0107fa6b931ff920bf81e734fcd6ae612b3ac4a",
-    "https://edismr.github.io/canasta-builds/assets/chip/100.webp": "ec1589c9086bdd0b18913f5f1e91f10e225add91",
-    "https://edismr.github.io/canasta-builds/assets/chip/1000.webp": "41500e4559364a9d0b5b460c8396663f826b7a96",
-    "https://edismr.github.io/canasta-builds/assets/chip/10000.webp": "01729fc3cf52fe4bcabc55b80335778f676364b8",
-    "https://edismr.github.io/canasta-builds/assets/chip/200.webp": "15c58e10dc2d5045e65e1727f1fab2af370e6a0b",
-    "https://edismr.github.io/canasta-builds/assets/chip/25.webp": "cf091720f09adfaa65e12068892a23c97c2aa1e4",
-    "https://edismr.github.io/canasta-builds/assets/chip/5.webp": "11f3f6ea98b03e4db2f5ef732f590e9d6ecc64ad",
-    "https://edismr.github.io/canasta-builds/assets/chip/500.webp": "3546038392db2503b8aa15b07582dbf7d731c5a3",
-    "https://edismr.github.io/canasta-builds/assets/chip/5000.webp": "47a3d07daaf52c6f58499fc4e7e43281b158e2f5",
-    "https://edismr.github.io/canasta-builds/assets/chip/chip.webp": "c8e41a20342b76cd283e6859948acc37f84235ac",
+    "https://edismr.github.io/canasta-builds/assets/chip/1.webp": "6904b6cf9bee61a48703b9cb9d95ef305747f5dd",
+    "https://edismr.github.io/canasta-builds/assets/chip/10.webp": "2fa7ac1b8532573508e3747a093515951c8da295",
+    "https://edismr.github.io/canasta-builds/assets/chip/100.webp": "ed5b635d3aae61405fdbe421383e9efbdca9c6c5",
+    "https://edismr.github.io/canasta-builds/assets/chip/1000.webp": "9fd7a798d76de0bacb911bb4e3b3e875b874dfb4",
+    "https://edismr.github.io/canasta-builds/assets/chip/10000.webp": "73dd01cde6f824c90636b534007e631ac066fce6",
+    "https://edismr.github.io/canasta-builds/assets/chip/200.webp": "2650f3a5b9b3e845578d4c98c3ac78b901aab873",
+    "https://edismr.github.io/canasta-builds/assets/chip/25.webp": "be09017a81fd697f16ab5c70cb4aa82991f1a440",
+    "https://edismr.github.io/canasta-builds/assets/chip/5.webp": "e25f76d1865c8a0c1b3f3694cff452422cd9a191",
+    "https://edismr.github.io/canasta-builds/assets/chip/500.webp": "129162a200072a31f283c5e763b6c9f5e3575375",
+    "https://edismr.github.io/canasta-builds/assets/chip/5000.webp": "ce8518c6ad97a15dc280dd4707b948fd2d5b5d1e",
+    "https://edismr.github.io/canasta-builds/assets/chip/chip.webp": "55d244630e6e56f0c12881d1951a59b4b4fc9d18",
     "https://edismr.github.io/canasta-builds/assets/fabric-icons-2ec38c36.woff": "329890235aa131fcb0b07bbfdb925434b01fcca7",
     "https://edismr.github.io/canasta-builds/assets/favicon.webp": "3880dabb141f85d3fbad5e7ca07d82a6affcc7b8",
     "https://edismr.github.io/canasta-builds/assets/icons/icon-128x128.png": "c9483ea07dcbcc7dddb7167c80773e627fd18bb4",
@@ -207,21 +208,22 @@
     "https://edismr.github.io/canasta-builds/assets/images/bills.webp": "dd7853b48645a6fe1108d4df70ce40c55d39c483",
     "https://edismr.github.io/canasta-builds/assets/images/casino-chips-s.webp": "3088aea9068634370275e263a2f20d487a284465",
     "https://edismr.github.io/canasta-builds/assets/images/girar.svg": "c2a490493c2dcb61553b501c658455a97356a7f6",
-    "https://edismr.github.io/canasta-builds/chunk-2TQ7GQK6.js": "f82a451abda868b6a1747d9bbb2cb8a58dbfb91e",
-    "https://edismr.github.io/canasta-builds/chunk-D3WNA54Q.js": "71aa66055c29993acb4890e251eba1bb758057e1",
-    "https://edismr.github.io/canasta-builds/chunk-FNI7E6FS.js": "64685639904b515a4a33b6a081772a60e160b265",
+    "https://edismr.github.io/canasta-builds/assets/poker-bg.avif": "e34866e0f0e1e92d225a6dd3cd458d7a79a9af5c",
+    "https://edismr.github.io/canasta-builds/chunk-4PHOILRH.js": "1315d729b7bc064809cc3025634555c8d6fc7a4f",
     "https://edismr.github.io/canasta-builds/chunk-FVWNVUDM.js": "f94f88a35b120342804ed919c0c878b356d5dceb",
-    "https://edismr.github.io/canasta-builds/chunk-JAAEZL4E.js": "f20ddc9cae46a29e04b77b89f57378308268f73a",
+    "https://edismr.github.io/canasta-builds/chunk-IV4P2DMH.js": "96265fe02d68ff517625fe0f66ed4064630dab55",
+    "https://edismr.github.io/canasta-builds/chunk-MQ2EZ6AK.js": "73d1fad7e34c70b4848a76ab1a3764f9137144ce",
+    "https://edismr.github.io/canasta-builds/chunk-RZJYRYWS.js": "e5c0223aff2859e03fd114f3c718e416b1b65999",
     "https://edismr.github.io/canasta-builds/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://edismr.github.io/canasta-builds/index.html": "6bcaa5d92d824242351ffa9fc91e20c6ed9cf3cb",
-    "https://edismr.github.io/canasta-builds/main-FSDTHP6R.js": "39e02a1072c7a3eb4052005f5dea2599259f28b6",
+    "https://edismr.github.io/canasta-builds/index.html": "068c2841b0f5d8a2f7cbe3d3491043b19a5ea9ab",
+    "https://edismr.github.io/canasta-builds/main-SS5PXK3H.js": "5d274412771c42232657f84d63f0e354165f2e6f",
     "https://edismr.github.io/canasta-builds/manifest.webmanifest": "f0a6a707dc691be693834727def5d9647a3bf751",
-    "https://edismr.github.io/canasta-builds/media/bg-1-W5BLS4NK.webp": "8861f19120a4f9c8ed34bee92ceb264667823808",
     "https://edismr.github.io/canasta-builds/media/bills-FIHPMTIL.webp": "dd7853b48645a6fe1108d4df70ce40c55d39c483",
     "https://edismr.github.io/canasta-builds/media/casino-chips-s-OXZHLZJW.webp": "3088aea9068634370275e263a2f20d487a284465",
     "https://edismr.github.io/canasta-builds/media/fabric-icons-2ec38c36-XGZS2O5E.woff": "329890235aa131fcb0b07bbfdb925434b01fcca7",
+    "https://edismr.github.io/canasta-builds/media/poker-bg-PUF5FXV6.avif": "e34866e0f0e1e92d225a6dd3cd458d7a79a9af5c",
     "https://edismr.github.io/canasta-builds/polyfills-LZBJRJJE.js": "fda1c82c5c620f1fa442f687b3df45a037f6fcc9",
-    "https://edismr.github.io/canasta-builds/styles-IAAW7YBL.css": "c840a50233ec49e100ca6736676dfaa93cc30e12"
+    "https://edismr.github.io/canasta-builds/styles-MY7GPG53.css": "c53cf57906f2cbd28b3175820f8a7982a8177bd8"
   },
   "navigationUrls": [
     {
